@@ -38,5 +38,7 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'figaro'
+gem 'activeadmin', github: 'activeadmin/activeadmin'
 gem 'kendocup', github: 'yannis/kendocup'
 
